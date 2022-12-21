@@ -5,4 +5,5 @@ public class HomePage {
     //navigate menu
     //more things for the homepage
     //finished home page
+    //......
 }
